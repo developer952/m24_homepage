@@ -126,13 +126,8 @@ function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-gray-950/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg gradient-hero flex items-center justify-center">
-              <MicrophoneIcon className="w-5 h-5 text-white" />
-            </div>
-            <span className="text-xl font-bold text-gray-900 dark:text-white">
-              m24
-            </span>
+          <div className="flex items-center">
+            <img src="/logo.svg" alt="m24" className="h-16" />
           </div>
           <nav className="hidden md:flex items-center gap-8">
             <a
@@ -628,13 +623,8 @@ function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
         <div className="grid md:grid-cols-4 gap-8 lg:gap-12">
           <div className="md:col-span-2">
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 rounded-lg gradient-hero flex items-center justify-center">
-                <MicrophoneIcon className="w-5 h-5 text-white" />
-              </div>
-              <span className="text-xl font-bold text-white">
-                m24
-              </span>
+            <div className="flex items-center mb-4">
+              <img src="/logo.svg" alt="m24" className="h-20 invert" />
             </div>
             <p className="text-gray-400 max-w-md">
               당신의 경험을 기록하고, 텍스트로 변환하고, AI와 대화하세요. 일상을
@@ -677,12 +667,12 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition-colors">
+                <a href="https://fuschia-spruce-797.notion.site/29ca0bbd55da802bbde7f6de13a736bf?pvs=74" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   이용약관
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition-colors">
+                <a href="https://fuschia-spruce-797.notion.site/29ca0bbd55da80c9aac2e4c35c5645cb?pvs=74" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   개인정보처리방침
                 </a>
               </li>
