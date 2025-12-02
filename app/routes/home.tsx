@@ -667,12 +667,12 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://fuschia-spruce-797.notion.site/29ca0bbd55da80c9aac2e4c35c5645cb?pvs=74" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://fuschia-spruce-797.notion.site/29ca0bbd55da802bbde7f6de13a736bf?pvs=74" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   이용약관
                 </a>
               </li>
               <li>
-                <a href="https://fuschia-spruce-797.notion.site/29ca0bbd55da802bbde7f6de13a736bf?pvs=74" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://fuschia-spruce-797.notion.site/29ca0bbd55da80c9aac2e4c35c5645cb?pvs=74" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   개인정보처리방침
                 </a>
               </li>
