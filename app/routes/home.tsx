@@ -677,6 +677,11 @@ function Footer() {
                 </a>
               </li>
               <li>
+                <a href="/delete-account" className="hover:text-white transition-colors">
+                  계정 삭제
+                </a>
+              </li>
+              <li>
                 <a href="#" className="hover:text-white transition-colors">
                   고객센터
                 </a>
